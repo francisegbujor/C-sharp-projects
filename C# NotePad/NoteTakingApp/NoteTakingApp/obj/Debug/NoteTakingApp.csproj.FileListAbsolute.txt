@@ -1,0 +1,10 @@
+C:\Users\Francis\Desktop\C# NotePad\NoteTakingApp\NoteTakingApp\bin\Debug\NoteTakingApp.exe.config
+C:\Users\Francis\Desktop\C# NotePad\NoteTakingApp\NoteTakingApp\bin\Debug\NoteTakingApp.exe
+C:\Users\Francis\Desktop\C# NotePad\NoteTakingApp\NoteTakingApp\bin\Debug\NoteTakingApp.pdb
+C:\Users\Francis\Desktop\C# NotePad\NoteTakingApp\NoteTakingApp\obj\Debug\NoteTakingApp.csproj.AssemblyReference.cache
+C:\Users\Francis\Desktop\C# NotePad\NoteTakingApp\NoteTakingApp\obj\Debug\NoteTakingApp.Form1.resources
+C:\Users\Francis\Desktop\C# NotePad\NoteTakingApp\NoteTakingApp\obj\Debug\NoteTakingApp.Properties.Resources.resources
+C:\Users\Francis\Desktop\C# NotePad\NoteTakingApp\NoteTakingApp\obj\Debug\NoteTakingApp.csproj.GenerateResource.cache
+C:\Users\Francis\Desktop\C# NotePad\NoteTakingApp\NoteTakingApp\obj\Debug\NoteTakingApp.csproj.CoreCompileInputs.cache
+C:\Users\Francis\Desktop\C# NotePad\NoteTakingApp\NoteTakingApp\obj\Debug\NoteTakingApp.exe
+C:\Users\Francis\Desktop\C# NotePad\NoteTakingApp\NoteTakingApp\obj\Debug\NoteTakingApp.pdb
